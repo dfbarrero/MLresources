@@ -10,10 +10,29 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 ## Books
 
-## Websites
+## Reddit
 
 * [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
 
-* [Reddit - Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks/)
+* [Reddit - Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/)
+
+* [Reddit - Machine Learning Questions](https://www.reddit.com/r/MLQuestions/)
 
 * [Reddit - Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks/)
+
+
+## Twitter accounts
+
+* [@kdnuggets](https://twitter.com/kdnuggets)
+
+* [Data Science Central](https://twitter.com/datasciencectrl)
+
+* [ESA Data Analytics Team](https://twitter.com/esa_datascience)
+
+* [Jason Yo](https://twitter.com/jasonyo)
+
+* [Juan Tomás](https://twitter.com/juantomas)
+
+* [Randy Olson](https://twitter.com/randal_olson)
+
+* [Kaggle](https://twitter.com/kaggle)
