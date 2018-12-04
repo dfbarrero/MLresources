@@ -36,3 +36,9 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Randy Olson](https://twitter.com/randal_olson)
 
 * [Kaggle](https://twitter.com/kaggle)
+
+## Datasets
+
+* [Kaggle](https://www.kaggle.com/)
+
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
