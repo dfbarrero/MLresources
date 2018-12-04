@@ -10,6 +10,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 ## Books
 
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (Open book)
+
 ## Reddit
 
 * [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
