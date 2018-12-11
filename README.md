@@ -46,3 +46,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Kaggle](https://www.kaggle.com/)
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
+
+## Notebook
+
+* https://github.com/GokuMohandas/practicalAI/blob/master/README.md
