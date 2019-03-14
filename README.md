@@ -24,6 +24,9 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Reddit - Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks/)
 
+## Introductory texts
+
+* [Basic concepts of machine learning](https://medium.com/@mrkardostamas/basic-concepts-of-machine-learning-d9e64c64aa94)  
 
 ## Twitter accounts
 
