@@ -10,6 +10,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Machine Learning lectures ESA](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA)
 
+* [Fast AI](https://www.fast.ai/)
+
 ## Books
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (Open book)
