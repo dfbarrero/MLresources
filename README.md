@@ -55,3 +55,9 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 ## Notebook
 
 * https://github.com/GokuMohandas/practicalAI/blob/master/README.md
+
+## Data visualization tools
+
+* [Rawgraphs](https://rawgraphs.io/)
+
+* [Knowage](https://www.knowage-suite.com/site/home/)
