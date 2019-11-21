@@ -61,3 +61,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Rawgraphs](https://rawgraphs.io/)
 
 * [Knowage](https://www.knowage-suite.com/site/home/)
+
+* [Bokeh](https://docs.bokeh.org/en/1.0.0/)
+
+* [Dash](https://dash.plot.ly/)
