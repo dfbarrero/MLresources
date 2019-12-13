@@ -65,3 +65,5 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Bokeh](https://docs.bokeh.org/en/1.0.0/)
 
 * [Dash](https://dash.plot.ly/)
+
+* [Altair](https://github.com/altair-viz/altair)
