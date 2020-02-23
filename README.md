@@ -52,7 +52,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 
-## Notebook
+## Notebooks
 
 * https://github.com/GokuMohandas/practicalAI/blob/master/README.md
 
