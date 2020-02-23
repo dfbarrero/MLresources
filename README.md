@@ -67,3 +67,5 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Dash](https://dash.plot.ly/)
 
 * [Altair](https://github.com/altair-viz/altair)
+
+* [Tableau](https://www.tableau.com/)
