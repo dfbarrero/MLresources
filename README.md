@@ -60,6 +60,12 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Rawgraphs](https://rawgraphs.io/)
 
+* [Streamlit](https://www.streamlit.io/)
+
+* [Panel](https://panel.holoviz.org/)
+
+* [Voila](https://github.com/voila-dashboards/voila)
+
 * [Knowage](https://www.knowage-suite.com/site/home/)
 
 * [Bokeh](https://docs.bokeh.org/en/1.0.0/)
