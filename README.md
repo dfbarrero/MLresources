@@ -75,3 +75,5 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Altair](https://github.com/altair-viz/altair)
 
 * [Tableau](https://www.tableau.com/)
+
+* [Data wrapper](https://www.datawrapper.de/)
