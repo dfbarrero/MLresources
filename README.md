@@ -77,3 +77,5 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Tableau](https://www.tableau.com/)
 
 * [Data wrapper](https://www.datawrapper.de/)
+
+* [Grafana](https://grafana.com/)
