@@ -79,3 +79,13 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Data wrapper](https://www.datawrapper.de/)
 
 * [Grafana](https://grafana.com/)
+
+## GAN applications
+
+* https://thispersondoesnotexist.com/
+
+* https://thisartworkdoesnotexist.com/
+
+* http://www.thisworddoesnotexist.com/
+
+* https://thesecatsdonotexist.com/
