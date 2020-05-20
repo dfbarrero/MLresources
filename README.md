@@ -89,3 +89,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * http://www.thisworddoesnotexist.com/
 
 * https://thesecatsdonotexist.com/
+
+## Applications
+
+* https://www.xataka.com/cine-y-tv/pasado-cobra-vida-videos-restaurados-4k-a-todo-color-alucinante-magia-inteligencia-artificial-accion
