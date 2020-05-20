@@ -80,7 +80,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Grafana](https://grafana.com/)
 
-## GAN applications
+## GAN applications
 
 * https://thispersondoesnotexist.com/
 
