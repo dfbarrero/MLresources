@@ -80,6 +80,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Grafana](https://grafana.com/)
 
+* [Banana](https://doc.lucidworks.com/lucidworks-hdpsearch/2.5/Guide-Banana.html)
+
 ## GAN applications
 
 * https://thispersondoesnotexist.com/
