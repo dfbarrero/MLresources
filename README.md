@@ -68,6 +68,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [ML-flow](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
 
+* [H2O.ai](https://www.h2o.ai/)
+
 ## Data visualization tools
 
 * [Rawgraphs](https://rawgraphs.io/)
