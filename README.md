@@ -56,6 +56,18 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * https://github.com/GokuMohandas/practicalAI/blob/master/README.md
 
+## MLOps tools
+
+* [Kubeflow](https://www.kubeflow.org/)
+
+* [Seldon](https://www.seldon.io/)
+
+* [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving)
+
+* [TFX](https://www.kdd.org/kdd2017/papers/view/tfx-a-tensorflow-based-production-scale-machine-learning-platform)
+
+* [ML-flow](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
+
 ## Data visualization tools
 
 * [Rawgraphs](https://rawgraphs.io/)
