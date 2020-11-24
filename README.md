@@ -70,6 +70,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [H2O.ai](https://www.h2o.ai/)
 
+* [Google AI Platform](https://cloud.google.com/ai-platform)
+
 ## Data visualization tools
 
 * [Rawgraphs](https://rawgraphs.io/)
