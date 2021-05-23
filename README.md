@@ -98,6 +98,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Banana](https://doc.lucidworks.com/lucidworks-hdpsearch/2.5/Guide-Banana.html)
 
+* [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
+
 ## GAN applications
 
 * https://thispersondoesnotexist.com/
