@@ -52,6 +52,10 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 
+### CBM datasets
+
+* [Condition-Based Maintenance of Naval Propulsion Systems](https://sites.google.com/view/cbm/home)
+
 ## Notebooks
 
 * https://github.com/GokuMohandas/practicalAI/blob/master/README.md
