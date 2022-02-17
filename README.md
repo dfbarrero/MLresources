@@ -56,6 +56,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Condition-Based Maintenance of Naval Propulsion Systems](https://sites.google.com/view/cbm/home)
 
+* [Reddit thread](https://www.reddit.com/r/datasets/comments/spfxir/what_are_some_nice_survival_analysis_datasets_for/)
+
 ## Notebooks
 
 * https://github.com/GokuMohandas/practicalAI/blob/master/README.md
@@ -75,6 +77,18 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [H2O.ai](https://www.h2o.ai/)
 
 * [Google AI Platform](https://cloud.google.com/ai-platform)
+
+## AI/ML in Space conferences
+
+* [AI4Space](https://aiforspace.github.io/)
+
+* [SMC-IT](https://smcit.ecs.baylor.edu/)
+
+* [ML-Helio](https://ml-helio.github.io/)
+
+* [Spaceandai](https://spaceandai.ijs.si/)
+
+* [ISAIRAS](https://www.hou.usra.edu/meetings/isairas2020/)
 
 ## Data visualization tools
 
