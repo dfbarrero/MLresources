@@ -90,6 +90,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [ISAIRAS](https://www.hou.usra.edu/meetings/isairas2020/)
 
+* [ASTRA](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA)
+
 ## Data visualization tools
 
 * [Rawgraphs](https://rawgraphs.io/)
