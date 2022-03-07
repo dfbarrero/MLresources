@@ -92,6 +92,21 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [ASTRA](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA)
 
+## AI/ML in Space papers
+
+* [Machine Learning Methods for Spacecraft Telemetry Mining](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8496807&tag=1)
+* [GalaxAI: Machine learning toolbox for interpretable analysis of spacecraft telemetry data](https://ai4spacecraft.github.io/papers/AI4Spacecraft_paper_8.pdf)
+* [Nanosatellite constellation control framework using evolutionary contact plan design](http://bergel.eu/MyPapers/Gonz21-Constellation.pdf)
+* [Transonic wing shape optimization using a genetic algorithm](https://ntrs.nasa.gov/api/citations/20020073158/downloads/20020073158.pdf)
+* [A Spacecraft Dataset for Detection, Segmentation and Parts Recognition](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Dung_A_Spacecraft_Dataset_for_Detection_Segmentation_and_Parts_Recognition_CVPRW_2021_paper.pdf)
+* [AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars](https://ieeexplore.ieee.org/document/9523149)
+* [Using Simulation and the NSGA-II Evolutionary Multi-Objective Algorithm in the Design of a Compact Dual-band Equatorial Helix Antenna](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8227540&tag=1)
+* [Evolutionary Computation for the ARIEL mission planning too](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8227547)
+* [Automated Antenna Design with Evolutionary Algorithm](https://ti.arc.nasa.gov/m/pub-archive/1244h/1244%20%28Hornby%29.pdf)
+* [Wire Antennas Optimized in the Presence of Satellite Structures using Genetic Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=878477)
+* [Evolutionary design of a satellite thermal control system: Real experiments for a CubeSat mission](https://repositorio.uchile.cl/bitstream/handle/2250/142068/Evolutionary-design-of-a-satellite-thermal-control-system.pdf?sequence=1&isAllowed=y)
+* [Automating the Process of Optimization in Spacecraft Design](http://metahack.org/Fukunaga-et-al-IEEE-Aero-1997.pdf)
+
 ## Data visualization tools
 
 * [Rawgraphs](https://rawgraphs.io/)
