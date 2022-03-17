@@ -109,6 +109,24 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Evolutionary design of a satellite thermal control system: Real experiments for a CubeSat mission](https://repositorio.uchile.cl/bitstream/handle/2250/142068/Evolutionary-design-of-a-satellite-thermal-control-system.pdf?sequence=1&isAllowed=y)
 * [Automating the Process of Optimization in Spacecraft Design](http://metahack.org/Fukunaga-et-al-IEEE-Aero-1997.pdf)
 
+## Genetic Programming tools
+
+* [gplearn](https://gplearn.readthedocs.io/en/stable/). Python.
+
+* [DEAP](https://github.com/DEAP/deap). Python.
+
+* [ECJ](https://cs.gmu.edu/~eclab/projects/ecj/). Java.
+
+* [jMetal](http://jmetal.github.io/jMetal/). Java. Not sure if it supports GP.
+
+* [rgp](https://cran.microsoft.com/snapshot/2016-01-03/web/packages/rgp/rgp.pdf). R. It seems no longer supported.
+
+* [HeuristicLab](https://dev.heuristiclab.com/trac.fcgi/). GUI.
+
+* [Karoo GP](http://kstaats.github.io/karoo_gp/). Python.
+
+* [FlexGP](http://flexgp.csail.mit.edu/).
+
 ## Data visualization tools
 
 * [Rawgraphs](https://rawgraphs.io/)
