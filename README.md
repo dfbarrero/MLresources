@@ -127,6 +127,12 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [FlexGP](http://flexgp.csail.mit.edu/).
 
+## ML in Robotics
+
+* [Machine Learning in Robotics](https://tams.informatik.uni-hamburg.de/lehre/2016ss/seminar/ir/doc/Machine_learning_martensen.pdf).
+
+* [Machine Learning for Robotics course](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/machine-learning-for-robotics-course/)
+
 ## Data visualization tools
 
 * [Rawgraphs](https://rawgraphs.io/)
