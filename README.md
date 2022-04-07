@@ -133,6 +133,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Machine Learning for Robotics course](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/machine-learning-for-robotics-course/)
 
+
 ## Data visualization tools
 
 * [Rawgraphs](https://rawgraphs.io/)
@@ -160,6 +161,13 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Banana](https://doc.lucidworks.com/lucidworks-hdpsearch/2.5/Guide-Banana.html)
 
 * [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
+
+## Visualizations
+
+* [A Neural Network Playground](https://playground.tensorflow.org/)
+
+* [t-SNE](https://distill.pub/2016/misread-tsne/)
+
 
 ## GAN applications
 
