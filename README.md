@@ -138,6 +138,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 ## Data visualization tools
 
+* [gradio](https://gradio.app/)
+
 * [Rawgraphs](https://rawgraphs.io/)
 
 * [Streamlit](https://www.streamlit.io/)
