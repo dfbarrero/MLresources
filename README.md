@@ -173,7 +173,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [t-SNE](https://distill.pub/2016/misread-tsne/)
 
 
-## GAN applications
+## Generative applications
 
 * https://thispersondoesnotexist.com/
 
@@ -184,6 +184,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * https://thesecatsdonotexist.com/
 
 * https://thisimagedoesnotexist.com/
+
+* https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/
 
 ## Applications
 
