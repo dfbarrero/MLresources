@@ -183,6 +183,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * https://thesecatsdonotexist.com/
 
+* https://thisimagedoesnotexist.com/
+
 ## Applications
 
 * [Twitter images AI](https://twitter.com/images_ai)
