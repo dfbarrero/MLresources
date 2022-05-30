@@ -10,6 +10,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Machine Learning lectures ESA](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA)
 
+* [Microsoft Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginnershttps://github.com/microsoft/ML-For-Beginners)
+
 * [Fast AI](https://www.fast.ai/)
 
 ## Books
