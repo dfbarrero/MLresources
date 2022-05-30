@@ -189,6 +189,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/
 
+* https://deepdreamgenerator.com/#gallery
+
 ## Applications
 
 * [Twitter images AI](https://twitter.com/images_ai)
