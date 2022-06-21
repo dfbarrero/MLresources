@@ -113,6 +113,16 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Evolutionary design of a satellite thermal control system: Real experiments for a CubeSat mission](https://repositorio.uchile.cl/bitstream/handle/2250/142068/Evolutionary-design-of-a-satellite-thermal-control-system.pdf?sequence=1&isAllowed=y)
 * [Automating the Process of Optimization in Spacecraft Design](http://metahack.org/Fukunaga-et-al-IEEE-Aero-1997.pdf)
 
+## Space data sources
+
+* [Gaia](https://gea.esac.esa.int/archive/)
+
+* [OMNIWeb](https://omniweb.gsfc.nasa.gov/)
+
+* [HAPI servers](http://hapi-server.org/servers/)
+
+* [FITS](https://heasarc.gsfc.nasa.gov/docs/heasarc/fits.html)
+
 ## Genetic Programming tools
 
 * [gplearn](https://gplearn.readthedocs.io/en/stable/). Python.
