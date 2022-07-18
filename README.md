@@ -82,7 +82,9 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Google AI Platform](https://cloud.google.com/ai-platform)
 
-* [ONNX](https://github.com/onnx/onnx) 
+* [ONNX](https://github.com/onnx/onnx)
+
+* [Made with ML](https://madewithml.com/)
 
 ## AI/ML in Space conferences
 
