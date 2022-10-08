@@ -152,6 +152,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 ## Data visualization tools
 
+* [Pandas profiling](https://github.com/ydataai/pandas-profiling) Automatic data exploration
+
 * [gradio](https://gradio.app/)
 
 * [Rawgraphs](https://rawgraphs.io/)
