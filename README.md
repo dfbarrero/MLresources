@@ -92,6 +92,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [SMC-IT](https://smcit.ecs.baylor.edu/)
 
+* [SMC-IT 2023](https://smcit-scc.space/)
+
 * [ML-Helio](https://ml-helio.github.io/)
 
 * [Spaceandai](https://spaceandai.ijs.si/)
