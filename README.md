@@ -212,3 +212,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Twitter images AI](https://twitter.com/images_ai)
 
 * https://www.xataka.com/cine-y-tv/pasado-cobra-vida-videos-restaurados-4k-a-todo-color-alucinante-magia-inteligencia-artificial-accion
+
+## Competitions
+
+* [Kelvins - ESA's Advanced Concepts Competition Website](https://kelvins.esa.int/)
