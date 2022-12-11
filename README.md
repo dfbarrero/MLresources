@@ -215,6 +215,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Futorpedia](https://www.futurepedia.io/)
 
+* [Weird Wall-E reddit thread](https://www.reddit.com/r/weirddalle/)
+
 ## Competitions
 
 * [Kelvins - ESA's Advanced Concepts Competition Website](https://kelvins.esa.int/)
