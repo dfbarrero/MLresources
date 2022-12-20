@@ -14,6 +14,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Fast AI](https://www.fast.ai/)
 
+* [Scikit-Learn course](https://inria.github.io/scikit-learn-mooc/index.html)
+
 ## Books
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (Open book)
