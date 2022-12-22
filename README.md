@@ -129,6 +129,12 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [FITS](https://heasarc.gsfc.nasa.gov/docs/heasarc/fits.html)
 
+## ML interesting readings
+
+* [A Comprehensive Introduction to Uncertainty in Machine Learning](https://imerit.net/blog/a-comprehensive-introduction-to-uncertainty-in-machine-learning-all-una/)
+
+*  [SHAP: Explain Any Machine Learning Model in Python](https://www.kdnuggets.com/2022/11/shap-explain-machine-learning-model-python.html)
+
 ## Genetic Programming tools
 
 * [gplearn](https://gplearn.readthedocs.io/en/stable/). Python.
