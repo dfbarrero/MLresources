@@ -201,6 +201,18 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 ## Generative applications
 
+### 2022
+
+* [ChatGPT](https://chat.openai.com/)
+
+* [Midjourney](https://www.midjourney.com)
+
+* [DALL-E 2](https://openai.com/dall-e-2/)
+
+* [GPT-3](https://openai.com/blog/gpt-3-apps/)
+
+### Before
+
 * https://thispersondoesnotexist.com/
 
 * https://thisartworkdoesnotexist.com/
