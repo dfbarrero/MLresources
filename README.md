@@ -201,6 +201,10 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 ## Generative applications
 
+### 2023
+
+* [Time traveller selfies](https://twitter.com/StelfieTT)
+
 ### 2022
 
 * [ChatGPT](https://chat.openai.com/)
