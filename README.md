@@ -171,7 +171,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Streamlit](https://www.streamlit.io/)
 
 * [Panel](https://panel.holoviz.org/)
-
+l
 * [Voila](https://github.com/voila-dashboards/voila)
 
 * [Knowage](https://www.knowage-suite.com/site/home/)
@@ -204,6 +204,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 ### 2023
 
 * [Time traveller selfies](https://twitter.com/StelfieTT)
+
+* [Vall-e](https://valle-demo.github.io/)
 
 ### 2022
 
