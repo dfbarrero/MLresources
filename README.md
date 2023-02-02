@@ -205,7 +205,7 @@ l
 
 * [Time traveller selfies](https://twitter.com/StelfieTT)
 
-* [Vall-e](https://valle-demo.github.io/)
+* [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
 
 ### 2022
 
