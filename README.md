@@ -60,6 +60,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [BigEarthNet: large-scale Sentinel-2 benchmark archive](https://www.tensorflow.org/datasets/catalog/bigearthnet)
 
+* [Eurosat](https://www.tensorflow.org/datasets/catalog/eurosat)
+
 ### CBM datasets
 
 * [Condition-Based Maintenance of Naval Propulsion Systems](https://sites.google.com/view/cbm/home)
