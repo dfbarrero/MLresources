@@ -250,3 +250,7 @@ l
 ## Competitions
 
 * [Kelvins - ESA's Advanced Concepts Competition Website](https://kelvins.esa.int/)
+
+## CUDA / TensorFlow / Keras / NVIDIA installation notes
+
+* [CUDA-TensorFlow compatibility table](https://www.tensorflow.org/install/source?hl=es-419#gpu)
