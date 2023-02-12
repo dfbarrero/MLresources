@@ -257,8 +257,8 @@ l
 
 * Installation:
 
-1. Install Anaconda / Miniconda
-2. Install NVidia drivers:
+1.- Install Anaconda / Miniconda
+2.- Install NVidia drivers:
 
     0.  sudo su
     1.  ubuntu-drivers devices
@@ -268,13 +268,13 @@ l
    
 3.- Create conda environment: *conda create --name tf*
 
-4.- Install packages in conda environment
+4.- Install packages in new conda environment
 
-    1.  conda activate tf
-    2.  conda install tensorflow-gpu keras
+    -  conda activate tf
+    -  conda install tensorflow-gpu keras
     
 5.- Test TensorFlow
 
-    1.  import tensorflow as tf 
-    2.  print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
+    -  import tensorflow as tf 
+    -  print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 
