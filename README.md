@@ -259,12 +259,14 @@ l
 
 1. Install Anaconda / Miniconda
 2. Install NVidia drivers:
-    0  sudo su
-    1  ubuntu-drivers devices
-    2  apt install nvidia-driver-525
-    3  nvidia-smi 
-    4  reboot
-3.- Create conda environment: conda create --name tf
+
+    0.  sudo su
+    1.  ubuntu-drivers devices
+    2.  apt install nvidia-driver-525
+    3.  nvidia-smi 
+    4.  reboot
+   
+3.- Create conda environment: '''conda create --name tf'''
 4.- Install packages in conda environment
     1.  conda activate tf
     2.  conda install tensorflow-gpu keras
