@@ -266,11 +266,15 @@ l
     3.  nvidia-smi 
     4.  reboot
    
-3.- Create conda environment: '''conda create --name tf'''
+3.- Create conda environment: *conda create --name tf*
+
 4.- Install packages in conda environment
+
     1.  conda activate tf
     2.  conda install tensorflow-gpu keras
+    
 5.- Test TensorFlow
+
     1.  import tensorflow as tf 
     2.  print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 
