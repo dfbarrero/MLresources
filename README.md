@@ -22,6 +22,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) (Open book)
 
+* [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) (Open book)
+
 ## Reddit
 
 * [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
