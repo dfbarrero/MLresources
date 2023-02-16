@@ -139,7 +139,9 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [A Comprehensive Introduction to Uncertainty in Machine Learning](https://imerit.net/blog/a-comprehensive-introduction-to-uncertainty-in-machine-learning-all-una/)
 
-*  [SHAP: Explain Any Machine Learning Model in Python](https://www.kdnuggets.com/2022/11/shap-explain-machine-learning-model-python.html)
+* [SHAP: Explain Any Machine Learning Model in Python](https://www.kdnuggets.com/2022/11/shap-explain-machine-learning-model-python.html)
+
+* [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ## Genetic Programming tools
 
