@@ -70,6 +70,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Reddit thread](https://www.reddit.com/r/datasets/comments/spfxir/what_are_some_nice_survival_analysis_datasets_for/)
 
+* [Ford engine noise classification](http://www.timeseriesclassification.com/description.php?Dataset=FordA)
+
 ## Notebooks
 
 * https://github.com/GokuMohandas/practicalAI/blob/master/README.md
