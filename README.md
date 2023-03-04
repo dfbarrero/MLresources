@@ -257,30 +257,3 @@ l
 
 * [Kelvins - ESA's Advanced Concepts Competition Website](https://kelvins.esa.int/)
 
-## CUDA / TensorFlow / Keras / NVIDIA installation notes
-
-* [CUDA-TensorFlow compatibility table](https://www.tensorflow.org/install/source?hl=es-419#gpu)
-
-* Installation:
-
-1.- Install Anaconda / Miniconda
-2.- Install NVidia drivers:
-
-    0.  sudo su
-    1.  ubuntu-drivers devices
-    2.  apt install nvidia-driver-525
-    3.  nvidia-smi 
-    4.  reboot
-   
-3.- Create conda environment: *conda create --name tf*
-
-4.- Install packages in new conda environment
-
-    -  conda activate tf
-    -  conda install tensorflow-gpu keras
-    
-5.- Test TensorFlow
-
-    -  import tensorflow as tf 
-    -  print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
-
