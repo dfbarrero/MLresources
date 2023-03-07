@@ -64,6 +64,10 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Eurosat](https://www.tensorflow.org/datasets/catalog/eurosat)
 
+* [JPL Small-Body Database](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results)
+
+* [JPL Horizons: key solar system data](https://ssd.jpl.nasa.gov/horizons/)
+
 ### CBM datasets
 
 * [Condition-Based Maintenance of Naval Propulsion Systems](https://sites.google.com/view/cbm/home)
