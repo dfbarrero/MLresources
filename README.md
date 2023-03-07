@@ -38,7 +38,9 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Basic concepts of machine learning](https://medium.com/@mrkardostamas/basic-concepts-of-machine-learning-d9e64c64aa94)  
 
-## Twitter accounts
+## ML Twitter accounts
+
+* [My personal Machine Learning Twitter list](https://twitter.com/i/lists/1553028170265280512)
 
 * [@kdnuggets](https://twitter.com/kdnuggets)
 
@@ -52,6 +54,16 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Randy Olson](https://twitter.com/randal_olson)
 
+* [Alex J. Champandard](https://twitter.com/alexjc)
+
+* [François Chollet](https://twitter.com/fchollet)
+
+* [AI Breakfast](https://twitter.com/AiBreakfast)
+
+* [Yann LeCun](https://twitter.com/ylecun)
+
+* [Carlos Santana](https://twitter.com/DotCSV)
+
 * [Kaggle](https://twitter.com/kaggle)
 
 ## Datasets
@@ -60,13 +72,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 
-* [BigEarthNet: large-scale Sentinel-2 benchmark archive](https://www.tensorflow.org/datasets/catalog/bigearthnet)
-
-* [Eurosat](https://www.tensorflow.org/datasets/catalog/eurosat)
-
-* [JPL Small-Body Database](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results)
-
-* [JPL Horizons: key solar system data](https://ssd.jpl.nasa.gov/horizons/)
+* [Google dataset search](https://datasetsearch.research.google.com/)
 
 ### CBM datasets
 
@@ -140,6 +146,14 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [HAPI servers](http://hapi-server.org/servers/)
 
 * [FITS](https://heasarc.gsfc.nasa.gov/docs/heasarc/fits.html)
+
+* [BigEarthNet: large-scale Sentinel-2 benchmark archive](https://www.tensorflow.org/datasets/catalog/bigearthnet)
+
+* [Eurosat](https://www.tensorflow.org/datasets/catalog/eurosat)
+
+* [JPL Small-Body Database](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results)
+
+* [JPL Horizons: key solar system data](https://ssd.jpl.nasa.gov/horizons/)
 
 ## ML interesting readings
 
