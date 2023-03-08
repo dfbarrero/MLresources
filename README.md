@@ -8,7 +8,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
-* [Machine Learning lectures ESA](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA) [ML aplicado al Espacio en español](https://www.iartificial.net/)
+* [Machine Learning lectures ESA](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA)
+  - [ML aplicado al Espacio en español](https://www.iartificial.net/)
 
 * [Microsoft Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginnershttps://github.com/microsoft/ML-For-Beginners)
 
