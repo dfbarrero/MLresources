@@ -82,9 +82,11 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Ford engine noise classification](http://www.timeseriesclassification.com/description.php?Dataset=FordA)
 
-## Notebooks
+## Learning resources
 
 * https://github.com/GokuMohandas/practicalAI/blob/master/README.md
+
+* https://sgfin.github.io/learning-resources/
 
 ## MLOps tools
 
