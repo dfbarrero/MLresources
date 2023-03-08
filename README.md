@@ -278,3 +278,5 @@ l
 
 * [Kelvins - ESA's Advanced Concepts Competition Website](https://kelvins.esa.int/)
 
+* [The Global Trajectory Optimization Competition](https://sophia.estec.esa.int/gtoc_portal/)
+
