@@ -97,6 +97,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Data Engineering Courses](https://www.mltut.com/best-data-engineering-courses-online/)
 
+* [Machine Learning and Data Science Courses](https://www.mltut.com/best-online-courses-for-machine-learning-and-data-science/)
+
 ## MLOps tools
 
 * [Kubeflow](https://www.kubeflow.org/)
