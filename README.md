@@ -89,6 +89,14 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * https://sgfin.github.io/learning-resources/
 
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+
+* [Time Series Courses](https://www.mltut.com/best-time-series-courses-online/)
+
+* [Advanced Machine Learning courses](https://www.mltut.com/best-advanced-machine-learning-courses/)
+
+* [Data Engineering Courses](https://www.mltut.com/best-data-engineering-courses-online/)
+
 ## MLOps tools
 
 * [Kubeflow](https://www.kubeflow.org/)
