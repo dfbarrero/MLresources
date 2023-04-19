@@ -137,6 +137,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 ## AI/ML in Space papers
 
+* [The Challenge of Machine Learning in Space Weather: Nowcasting and Forecasting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018SW002061)
 * [Machine Learning Methods for Spacecraft Telemetry Mining](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8496807&tag=1)
 * [GalaxAI: Machine learning toolbox for interpretable analysis of spacecraft telemetry data](https://ai4spacecraft.github.io/papers/AI4Spacecraft_paper_8.pdf)
 * [Nanosatellite constellation control framework using evolutionary contact plan design](http://bergel.eu/MyPapers/Gonz21-Constellation.pdf)
