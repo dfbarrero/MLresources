@@ -201,6 +201,17 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Machine Learning for Robotics course](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/machine-learning-for-robotics-course/)
 
+## ML in Education
+
+* [Snack Prompt](https://snackprompt.com/)
+
+* [MagicSlides](https://www.magicslides.app/es/app)
+
+* [SlidesAI](https://www.slidesai.io/es)
+
+* [Glasp](https://glasp.co/youtube-summary). Automatic YouTube summaries.
+
+* [ChatPDF](https://www.chatpdf.com/). Chat with a PDF document.
 
 ## Data visualization tools
 
