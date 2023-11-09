@@ -212,6 +212,10 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Glasp](https://glasp.co/youtube-summary). Automatic YouTube summaries.
 
 * [ChatPDF](https://www.chatpdf.com/). Chat with a PDF document.
+  
+* [Conker](https://www.conker.ai/). Automatic assessment generation.
+  
+* [Gammarly](https://www.grammarly.com/). Writting personal assistant.
 
 ## Data visualization tools
 
