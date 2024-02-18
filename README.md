@@ -258,6 +258,10 @@ l
 
 ## Generative applications
 
+### 2024
+
+* [SOTA - text-to-video](https://openai.com/sora)
+
 ### 2023
 
 * [Time traveller selfies](https://twitter.com/StelfieTT)
