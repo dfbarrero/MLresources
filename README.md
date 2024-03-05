@@ -69,6 +69,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 ## Datasets
 
+* [Catálogo de datos del Gobierno de España](https://datos.gob.es/es/catalogo)
+
 * [Kaggle](https://www.kaggle.com/)
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
