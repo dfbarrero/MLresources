@@ -261,6 +261,8 @@ l
 ## Generative applications
 
 ### 2024
+* [ChatRTX][https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/]
+
 * [Music generation][https://www.udio.com/]
 
 * [Project Music GenAI Control](https://blog.adobe.com/en/publish/2024/02/28/adobe-research-audio-creation-editing)
