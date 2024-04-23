@@ -261,6 +261,10 @@ l
 ## Generative applications
 
 ### 2024
+* [Udio][https://www.udio.com]
+
+* [Suno][https://suno.com/]
+
 * [ChatRTX][https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/]
 
 * [Music generation][https://www.udio.com/]
