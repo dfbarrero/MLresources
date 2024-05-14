@@ -101,6 +101,22 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Machine Learning and Data Science Courses](https://www.mltut.com/best-online-courses-for-machine-learning-and-data-science/)
 
+## Python tools
+
+* [Cleanlab](https://github.com/cleanlab/cleanlab)
+  
+* [Lazy Predict](https://pypi.org/project/lazypredict/)
+  
+* [pyforest](https://pypi.org/project/pyforest/) - Jupyter extension
+
+* [pivottablejs](https://pypi.org/project/pivottablejs/)
+
+* [Drawdata](https://pypi.org/project/drawdata/)
+  
+* [Black](https://pypi.org/project/black/) - Code formatter
+  
+* [PyCaret](https://github.com/pycaret/pycaret) - Automation of Machine Learning workflows
+
 ## MLOps tools
 
 * [Kubeflow](https://www.kubeflow.org/)
@@ -250,6 +266,8 @@ l
 * [Banana](https://doc.lucidworks.com/lucidworks-hdpsearch/2.5/Guide-Banana.html)
 
 * [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
+
+* [Lux](https://github.com/lux-org/lux)
 
 ## Visualizations
 
