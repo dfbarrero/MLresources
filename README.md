@@ -279,6 +279,9 @@ l
 ## Generative applications
 
 ### 2024
+
+* [Luma AI](https://lumalabs.ai/) - Text to video
+
 * [Udio][https://www.udio.com] - Text to music
 
 * [Suno][https://suno.com/] - Text to music
