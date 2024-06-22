@@ -101,7 +101,9 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Machine Learning and Data Science Courses](https://www.mltut.com/best-online-courses-for-machine-learning-and-data-science/)
 
-## Python tools
+## Tools
+
+### ML Python tools
 
 * [Cleanlab](https://github.com/cleanlab/cleanlab)
   
@@ -117,7 +119,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
   
 * [PyCaret](https://github.com/pycaret/pycaret) - Automation of Machine Learning workflows
 
-## MLOps tools
+### MLOps tools
 
 * [Kubeflow](https://www.kubeflow.org/)
 
@@ -136,6 +138,73 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [ONNX](https://github.com/onnx/onnx)
 
 * [Made with ML](https://madewithml.com/)
+
+### Big Data tools
+
+Distributed file systems
+
+* [Apache Hadoop](https://hadoop.apache.org/)
+
+Data injection tools
+
+* [Apache Kafka](https://kafka.apache.org/) - Event-based data streaming tool.
+
+* [Apache NiFi](https://nifi.apache.org/) - Visual data routing, transformation and system mediation logic platform.
+
+* [Apache Flume](https://flume.apache.org/) - Distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
+
+Query engines for Big Data.
+
+* [Apache Impala](https://impala.apache.org/) - Interactive SQL queries on HDFS and HBase on top of Hadoop. Real-time queries.
+
+* [Apache Drill](https://drill.apache.org/) - Schema-free SQL query engine for Hadoop, NoSQL and cloud storage.
+
+* [Apache HBase](https://hbase.apache.org/) - Random, real-time read/write access to Big Data. NoSQL. Suited for real-time queries.
+
+* [Apache Hive](https://hive.apache.org) - Reading, writing, and managing petabytes of data residing in distributed storage using SQL. Batch processing on Hadoop and does not provide interactive querying. Not suited for real-time queries. Best used for analytical querying of data.
+
+* [Apache Sqoop](https://sqoop.apache.org/) - Importing and exporting data from relational databases to Hadoop via JDBC. *Retired*.
+
+* [Apache Spark SQL](https://spark.apache.org/sql/) - Mix SQL queries with Spark programs. Provides dataframes.
+
+Big Data processing
+
+* [Apache Spark](https://spark.apache.org/)
+
+### Data visualization tools
+
+* [Pandas profiling](https://github.com/ydataai/pandas-profiling) Automatic data exploration
+
+* [gradio](https://gradio.app/)
+
+* [Rawgraphs](https://rawgraphs.io/)
+
+* [Streamlit](https://www.streamlit.io/)
+
+* [Panel](https://panel.holoviz.org/)
+l
+* [Voila](https://github.com/voila-dashboards/voila)
+
+* [Knowage](https://www.knowage-suite.com/site/home/)
+
+* [Bokeh](https://docs.bokeh.org/en/1.0.0/)
+
+* [Dash](https://dash.plot.ly/)
+
+* [Altair](https://github.com/altair-viz/altair)
+
+* [Tableau](https://www.tableau.com/)
+
+* [Data wrapper](https://www.datawrapper.de/)
+
+* [Grafana](https://grafana.com/)
+
+* [Banana](https://doc.lucidworks.com/lucidworks-hdpsearch/2.5/Guide-Banana.html)
+
+* [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
+
+* [Lux](https://github.com/lux-org/lux)
+
 
 ## AI/ML in Space conferences
 
@@ -234,40 +303,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Conker](https://www.conker.ai/). Automatic assessment generation.
   
 * [Gammarly](https://www.grammarly.com/). Writting personal assistant.
-
-## Data visualization tools
-
-* [Pandas profiling](https://github.com/ydataai/pandas-profiling) Automatic data exploration
-
-* [gradio](https://gradio.app/)
-
-* [Rawgraphs](https://rawgraphs.io/)
-
-* [Streamlit](https://www.streamlit.io/)
-
-* [Panel](https://panel.holoviz.org/)
-l
-* [Voila](https://github.com/voila-dashboards/voila)
-
-* [Knowage](https://www.knowage-suite.com/site/home/)
-
-* [Bokeh](https://docs.bokeh.org/en/1.0.0/)
-
-* [Dash](https://dash.plot.ly/)
-
-* [Altair](https://github.com/altair-viz/altair)
-
-* [Tableau](https://www.tableau.com/)
-
-* [Data wrapper](https://www.datawrapper.de/)
-
-* [Grafana](https://grafana.com/)
-
-* [Banana](https://doc.lucidworks.com/lucidworks-hdpsearch/2.5/Guide-Banana.html)
-
-* [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
-
-* [Lux](https://github.com/lux-org/lux)
+  
 
 ## Visualizations
 
