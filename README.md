@@ -141,11 +141,11 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 ### Big Data tools
 
-Distributed file systems
+Distributed file systems:
 
 * [Apache Hadoop](https://hadoop.apache.org/)
 
-Data injection tools
+Data injection tools:
 
 * [Apache Kafka](https://kafka.apache.org/) - Event-based data streaming tool.
 
@@ -153,7 +153,7 @@ Data injection tools
 
 * [Apache Flume](https://flume.apache.org/) - Distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 
-Query engines for Big Data.
+Query engines for Big Data:
 
 * [Apache Impala](https://impala.apache.org/) - Interactive SQL queries on HDFS and HBase on top of Hadoop. Real-time queries.
 
@@ -167,7 +167,7 @@ Query engines for Big Data.
 
 * [Apache Spark SQL](https://spark.apache.org/sql/) - Mix SQL queries with Spark programs. Provides dataframes.
 
-Big Data processing
+Big Data processing:
 
 * [Apache Spark](https://spark.apache.org/)
 
