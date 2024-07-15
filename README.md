@@ -304,14 +304,16 @@ l
   
 * [Gammarly](https://www.grammarly.com/). Writting personal assistant.
   
-
 ## Visualizations
 
 * [A Neural Network Playground](https://playground.tensorflow.org/)
 
 * [t-SNE](https://distill.pub/2016/misread-tsne/)
 
+## Cool examples
 
+* [Latent space inspector for image generation](https://x.com/msfeldstein/status/1812250580578103749)
+  
 ## Generative applications
 
 ### 2024
