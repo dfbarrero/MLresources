@@ -9,7 +9,7 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 * [Machine Learning lectures ESA](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA)
-  - [ML aplicado al Espacio en español](https://www.iartificial.net/)
+  - [ML aplicado al Espacio (*Spanish*)](https://www.iartificial.net/)
 
 * [Microsoft Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginnershttps://github.com/microsoft/ML-For-Beginners)
 
@@ -100,6 +100,10 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Data Engineering Courses](https://www.mltut.com/best-data-engineering-courses-online/)
 
 * [Machine Learning and Data Science Courses](https://www.mltut.com/best-online-courses-for-machine-learning-and-data-science/)
+
+* [Big Data videotutorials](https://www.simplilearn.com/tutorials/hadoop-tutorial)
+  
+* [Tutorial de introducción a la programación de Hadoop, con instalación (*Spanish*)](https://github.com/pagutierrez/tutorial-hadoop)
 
 ## Tools
 
