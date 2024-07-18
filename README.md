@@ -185,6 +185,10 @@ Monitoring tools:
 
 * [Apache Ranger](https://ranger.apache.org/) - Enable, monitor and manage comprehensive data security across the Hadoop ecosystem.
 
+Orchestation:
+
+* [Apache Oozie](https://oozie.apache.org/) - Workflow scheduler system to manage Apache Hadoop jobs.
+
 ### Data visualization tools
 
 * [Pandas profiling](https://github.com/ydataai/pandas-profiling) Automatic data exploration
