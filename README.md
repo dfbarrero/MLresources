@@ -179,6 +179,10 @@ Big Data processing:
 
 * [Apache Spark](https://spark.apache.org/)
 
+Monitoring tools:
+
+* [Apache Ambari](https://ambari.apache.org/) - Provisioning, managing, and monitoring Apache Hadoop clusters.
+
 ### Data visualization tools
 
 * [Pandas profiling](https://github.com/ydataai/pandas-profiling) Automatic data exploration
