@@ -157,6 +157,10 @@ Data injection tools:
 
 * [Apache Flume](https://flume.apache.org/) - Distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 
+Scripting and query languages for Big Data.
+
+* [Apache Pig](https://pig.apache.org/)
+
 Query engines for Big Data:
 
 * [Apache Impala](https://impala.apache.org/) - Interactive SQL queries on HDFS and HBase on top of Hadoop. Real-time queries.
