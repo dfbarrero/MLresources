@@ -226,6 +226,8 @@ l
 
 ## AI/ML in Space conferences
 
+* [European Space Weather Week - Applications of Artificial Intelligence to Space Weather and Space Climate](https://esww2024.org/programme/parallel-sessions/swr6-session-plan/)
+
 * [AI4Space](https://aiforspace.github.io/)
 
 * [SMC-IT](https://smcit.ecs.baylor.edu/)
