@@ -338,6 +338,8 @@ l
 
 ### 2024
 
+* [6-motion in AI generated consistent scene](https://x.com/runwayml/status/1852363185916932182)
+
 * [Luma AI](https://lumalabs.ai/) - Text to video
 
 * [Udio][https://www.udio.com] - Text to music
