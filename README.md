@@ -39,6 +39,10 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 
 * [Basic concepts of machine learning](https://medium.com/@mrkardostamas/basic-concepts-of-machine-learning-d9e64c64aa94)  
 
+## ML/AI Bluesky list
+
+* [ML/AI Bluesky list](https://bsky.app/profile/dfbarrero.bsky.social/lists/3layr5aabvy2d)
+
 ## ML Twitter accounts
 
 * [My personal Machine Learning Twitter list](https://twitter.com/i/lists/1553028170265280512)
@@ -104,6 +108,8 @@ Resources about Machine Learning, mostly oriented to newcombers to ML with onlin
 * [Big Data videotutorials](https://www.simplilearn.com/tutorials/hadoop-tutorial)
   
 * [Tutorial de introducción a la programación de Hadoop, con instalación (*Spanish*)](https://github.com/pagutierrez/tutorial-hadoop)
+
+* [SPACERAISE](https://spaceraise.academy) - Postgraduate AI and Space program.
 
 ## Tools
 
